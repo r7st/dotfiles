@@ -1,0 +1,12 @@
+OPTIONS=boulder:0
+OPTIONS=showexp,showscore,time,color,showrace
+OPTIONS=use_darkgray
+OPTIONS=hilite_pet
+OPTIONS=implicit_uncursed:false
+OPTIONS=msg_window:reversed
+OPTIONS=menucolors
+MENUCOLOR=" blessed "=green
+MENUCOLOR=" holy "=green
+MENUCOLOR=" cursed "=red
+MENUCOLOR=" unholy "=red
+MENUCOLOR=" cursed .* (being worn)"=orange&underline
